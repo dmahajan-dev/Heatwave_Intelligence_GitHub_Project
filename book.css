@@ -1,0 +1,22 @@
+/* CSS task file: Book/Data Card styling adapted to the Heatwave case study.
+   Covers box-model card requirements from Experiment 2 Task 5. */
+
+.data-card {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 1.5%;
+  padding: 20px;
+  border: 1px solid #ddd;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.data-card:hover {
+  box-shadow: 0 6px 14px rgba(0,0,0,0.20);
+  transform: translateY(-2px);
+  transition: 0.2s ease;
+}

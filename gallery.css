@@ -1,0 +1,22 @@
+/* CSS task file: Image Gallery styling - Experiment 2 Task 6 */
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.gallery-img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border: 3px solid #34495e;
+  margin: 5px;
+  transition: transform 0.4s ease, border-color 0.4s ease;
+}
+
+.gallery-img:hover {
+  transform: scale(1.1);
+  border-color: #e74c3c;
+}

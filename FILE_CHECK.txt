@@ -1,0 +1,34 @@
+PROJECT FILE CHECK
+==================
+
+Required files from the supplied GitHub screenshot:
+[OK] README.txt
+[OK] alerts.html
+[OK] book.css
+[OK] categories.html
+[OK] forecast.html
+[OK] gallery.css
+[OK] index.html
+[OK] navigation.html
+[OK] sources.html
+[OK] special-advisory.html
+[OK] style.css
+[OK] subscribe.html
+
+CSS task coverage from Experiment 2:
+Task 1  - Inline homepage header: index.html
+Task 2  - Internal navigation CSS: index.html
+Task 3  - External global theme: style.css
+Task 4  - Sidebar card: style.css
+Task 5  - Data/book card box model: book.css + style.css
+Task 6  - Image gallery: gallery.css
+Task 7  - Forecast table: style.css
+Task 8  - Registration/subscription form: style.css
+Task 9  - Header/sidebar/content/footer layout: style.css
+Task 10 - Alert animation: style.css
+
+Note:
+The supplied Experiment 1 write-up explicitly provides full code for Task 8 and Task 9,
+while the Experiment 2 write-up provides CSS requirements and code for the CSS tasks.
+The files in this ZIP are assembled into one consistent Heatwave Intelligence System
+project so they can be uploaded as a GitHub repository.
